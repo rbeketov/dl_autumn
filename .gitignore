@@ -1,3 +1,5 @@
 /.venv
 .DS_Store
 /.ipynb_checkpoints
+/MNIST
+/__pycache__
