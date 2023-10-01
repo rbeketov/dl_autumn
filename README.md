@@ -1,3 +1,3 @@
-<p style="text-align: center;"><strong>Repository with homework assignments for the DL&nbsp;</strong><a href="https://park.vk.company/"><strong>VK Education</strong></a><strong>&nbsp;course Fall 2023</strong></p>
-<p style="text-align: center;">My practice in deep learning studies 🐵</p>
-<p><br></p>
+<p><strong>Wrote optimizers </strong><span class="symbol-main__title--symbl">🤗</span></p>
+<p><img src="https://workspace.ru/upload/iblock/f1c/6u1k4lmj55rnaps8exlkd42efeaf4x4o/0.jpg" /></p>
+<p><span class="symbol-main__title--symbl"></span></p>
