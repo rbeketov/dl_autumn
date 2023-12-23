@@ -1,1 +1,1 @@
-<strong>FUCK</strong>
+<strong>Ball object detection with DeiT3</strong>
